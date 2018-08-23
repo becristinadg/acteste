@@ -1,5 +1,5 @@
 def imprimir(dic):
-    print(dic)
+    print(dic savc)
 	
 def qntFunc():
     x = int(input("Insira a quantidade de funcionÃ¡rios a serem cadastrados: "))
